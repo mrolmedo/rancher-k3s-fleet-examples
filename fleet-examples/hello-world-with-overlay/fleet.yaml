@@ -1,3 +1,4 @@
+defaultNamespace: test01
 targetCustomizations:
   - name: west
     yaml:
